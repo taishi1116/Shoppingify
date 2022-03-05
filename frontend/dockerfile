@@ -1,0 +1,9 @@
+FROM node:lts
+WORKDIR /usr/src/client
+
+COPY ./ /usr/src/client
+
+EXPOSE 3000
+
+RUN yarn install
+CMD yarn dev
