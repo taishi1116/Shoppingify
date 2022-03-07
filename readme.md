@@ -1,19 +1,13 @@
-# next-laravel-template
 
-# 環境構築
 
-## 共通
+# 成果物
 
-- `docker-compose up -d`で DB 立ち上げ
+https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x
 
-## front
 
-- `cp ./.env.example .env`
-- yarn install
-- yarn dev
+# design
+https://www.figma.com/file/kX8FNpYFVLI4ivuEQ6yGgS/Shopping-List
 
-## laravel api
+# 目的
 
-- `cp ./.env.example .env`
-- composer install
-- php artisan serve
+- バックエンドの学習
