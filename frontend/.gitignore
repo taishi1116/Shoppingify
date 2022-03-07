@@ -38,5 +38,7 @@ yarn-error.log*
 *.tsbuildinfo
 
 
+.env
 /docker/db
 .idea
+
